@@ -1,7 +1,11 @@
+.container {
+  background-color: black;
+}
+
 .name {
-  color: red
+  color: white;
 }
 
 .story {
-
+  color: white;
 }
